@@ -20,6 +20,7 @@ public class EmpdailyWageUc2 {
 		        }
 
 		        return 0;
+		        
 		    }
 		    public float empDailyWage()
 		    {
